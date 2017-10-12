@@ -15,10 +15,10 @@ Step - 2 (Detect connected lines from videos)
 
 - Detect lanes for all images as used in step - 1.
 - Connect Lines
-  > Calculate constant 'b' from hough space.
-  > Calculate average constant.
-  > Get x and y from left and right lanes.
-  > Connect lane points together.
+  - Calculate constant 'b' from hough space.
+  - Calculate average constant.
+  - Get x and y from lanes.
+  - Connect lane points together.
 
 ### 2. Potential Shortcomings
 
